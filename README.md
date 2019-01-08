@@ -1,5 +1,7 @@
 # ALL KINDS OF LINKS
 
+This is a list of links I am compiling as I learn Front-End Web Development.
+
 ## General FEND
 
 - [Submarine Cable Map](https://www.submarinecablemap.com/)
