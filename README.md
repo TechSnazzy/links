@@ -20,9 +20,6 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [TRANSLATING CLIENT-SPEAK: AN INFOGRAPHIC](http://platowebdesign.com/articles/translating-client-speak-infographic/)
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 - [Internet Explorer is EVIL!](http://toastytech.com/evil/)
-- [Color Hunt](https://colorhunt.co/palette/136330)
-- [Emojipedia](https://emojipedia.org/)
-- [Favicon](https://www.favicon.cc/)
 
 ## Code Editing Playgrounds
 
@@ -59,6 +56,15 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [Storybook JS](https://storybook.js.org/)
 
 ---
+
+## Color
+
+- [Color Hunt](https://colorhunt.co/palette/136330)
+
+## Icons
+
+- [Emojipedia](https://emojipedia.org/)
+- [Favicon](https://www.favicon.cc/)
 
 ## Fonts & Text
 
