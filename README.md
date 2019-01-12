@@ -21,6 +21,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 - [Internet Explorer is EVIL!](http://toastytech.com/evil/)
 - [Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
+- [Lambsoft mobile friendly test](http://home.global.co.za/~lambsoft/)
 
 ## Code Editing Playgrounds
 
