@@ -20,6 +20,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [TRANSLATING CLIENT-SPEAK: AN INFOGRAPHIC](http://platowebdesign.com/articles/translating-client-speak-infographic/)
 - [Web Design in 4 minutes](https://jgthms.com/web-design-in-4-minutes/)
 - [Internet Explorer is EVIL!](http://toastytech.com/evil/)
+- [Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
 
 ## Code Editing Playgrounds
 
