@@ -22,6 +22,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [Internet Explorer is EVIL!](http://toastytech.com/evil/)
 - [Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
 - [Lambsoft mobile friendly test](http://home.global.co.za/~lambsoft/)
+- [Code Golf](https://codegolf.stackexchange.com/)
 
 ## Code Editing Playgrounds
 
