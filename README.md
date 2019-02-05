@@ -1,4 +1,4 @@
-# ALL KINDS OF LINKS
+# ALL KINDS OF WEB DEV LINKS
 
 This is a list of links I am compiling as I learn Front-End Web Development.
 
