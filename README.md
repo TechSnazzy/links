@@ -23,6 +23,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [Mobile Friendly Test](https://search.google.com/test/mobile-friendly)
 - [Lambsoft mobile friendly test](http://home.global.co.za/~lambsoft/)
 - [Code Golf](https://codegolf.stackexchange.com/)
+- [three.js](https://threejs.org/)
 
 ## Code Editing Playgrounds
 
@@ -73,6 +74,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 
 - [Emojipedia](https://emojipedia.org/)
 - [Favicon](https://www.favicon.cc/)
+- [LineIcons](https://lineicons.com/)
 
 ## Fonts & Text
 
