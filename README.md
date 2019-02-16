@@ -63,6 +63,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 
 - [2018 - State of JS](https://2018.stateofjs.com/)
 - [Storybook JS](https://storybook.js.org/)
+- [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 
 ---
 
