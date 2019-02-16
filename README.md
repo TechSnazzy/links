@@ -54,6 +54,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [Basic CSS Box Model Demo](http://markusvogl.com/web1/interactive_box_model/css_box_demo.html)
 - [CSS3 Button Generator](https://www.designrush.com/resources/css3buttongenerator)
 - [CSS function to rotate an image](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate)
+- [Twitter Character Counter](http://www.twitter-character-counter.com/)
 
 ## Bootstrap
 
