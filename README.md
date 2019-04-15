@@ -62,6 +62,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [CSS Autoprefixer](https://autoprefixer.github.io/)
 - [Pleeese Autoprefixer](http://pleeease.io/play/)
 - [Easing functions: specify the rate of change of a parameter over time](https://easings.net/en)
+- [Ceaser CSS Easing Tool](https://matthewlein.com/tools/ceaser)
 
 ## Bootstrap
 
