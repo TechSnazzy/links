@@ -60,6 +60,8 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [CSS function to rotate an image](https://developer.mozilla.org/en-US/docs/Web/CSS/transform-function/rotate)
 - [Twitter Character Counter](http://www.twitter-character-counter.com/)
 - [CSS Autoprefixer](https://autoprefixer.github.io/)
+- [Pleeese Autoprefixer](http://pleeease.io/play/)
+- [Easing functions: specify the rate of change of a parameter over time](https://easings.net/en)
 
 ## Bootstrap
 
