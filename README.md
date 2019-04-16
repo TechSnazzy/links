@@ -118,3 +118,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 ### Git
 
 - [Git Explorer](http://gitexplorer.com/)
+
+### Good Reads
+
+- [High Performance Animations](https://www.html5rocks.com/en/tutorials/speed/high-performance-animations/)
