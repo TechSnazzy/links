@@ -64,6 +64,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [Easing functions: specify the rate of change of a parameter over time](https://easings.net/en)
 - [Ceaser CSS Easing Tool](https://matthewlein.com/tools/ceaser)
 - [CSS Zen Garden](http://www.csszengarden.com/)
+- [The difference between flex-basis and width](https://gedd.ski/post/the-difference-between-width-and-flex-basis/)
 
 ## Bootstrap
 
