@@ -66,6 +66,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [Ceaser CSS Easing Tool](https://matthewlein.com/tools/ceaser)
 - [CSS Zen Garden](http://www.csszengarden.com/)
 - [The difference between flex-basis and width](https://gedd.ski/post/the-difference-between-width-and-flex-basis/)
+- [CSS Grid](https://cssgrid.io/)
 
 ## Bootstrap
 
@@ -78,6 +79,11 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [Principles of Writing Consistent, Idiomatic JavaScript](https://github.com/rwaldron/idiomatic.js)
 - [Stanford Karel IDE](http://stanford.edu/~cpiech/karel/ide.html)
 - [A re-introduction to Java​Script](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+
+## JavaScript Libraries and Frameworks
+
+- [Vue](https://vuejs.org/)
+- [Flutter](https://flutter.dev/)
 
 ---
 
@@ -122,6 +128,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 ### Git
 
 - [Git Explorer](http://gitexplorer.com/)
+- [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 
 ### Good Reads
 
