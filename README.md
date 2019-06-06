@@ -67,6 +67,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [CSS Zen Garden](http://www.csszengarden.com/)
 - [The difference between flex-basis and width](https://gedd.ski/post/the-difference-between-width-and-flex-basis/)
 - [CSS Grid](https://cssgrid.io/)
+- [CSS FX](https://cssfx.dev/)
 
 ## Bootstrap
 
@@ -130,6 +131,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 
 - [Git Explorer](http://gitexplorer.com/)
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
+- [use GitHub from the Command Line](https://hub.github.com/)
 
 ### Good Reads
 
@@ -143,3 +145,22 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [Flexbox Holy Grail Layout](https://flexbox.ninja/demos/holy-grail-layout/demo.html)
 - [Using Flexbox: Mixing Old and New for the Best Browser Support](https://css-tricks.com/using-flexbox/)
 - [Flexbox: How to Deal with Older Browsers?](https://medium.com/css-mine/flexbox-how-to-deal-with-older-browsers-fbf6eb8c7a65)
+
+### Mentor
+
+- [Coding Coach](https://mentors.codingcoach.io/)
+
+### Learning
+
+- [Learn to Code HTML & CSS](https://learn.shayhowe.com/)
+- [LeetCode](https://leetcode.com/)
+- [Degreeless Design](https://www.degreeless.design/)
+- [Go Make Things](https://gomakethings.com/resources/)
+
+### Design
+
+- [Front End Handbook 2019](https://frontendmasters.com/books/front-end-handbook/2019/)
+
+### Career
+
+- [Resume Templates for Tech Jobs](https://blog.powertofly.com/resume-templates-for-tech-jobs-2634144441.html)
