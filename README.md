@@ -132,6 +132,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [Git Explorer](http://gitexplorer.com/)
 - [Emmet Cheat Sheet](https://docs.emmet.io/cheat-sheet/)
 - [use GitHub from the Command Line](https://hub.github.com/)
+- [Git Explorer](https://gitexplorer.com/)
 
 ### Good Reads
 
