@@ -98,6 +98,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [Emojipedia](https://emojipedia.org/)
 - [Favicon](https://www.favicon.cc/)
 - [LineIcons](https://lineicons.com/)
+- [Google Icons](https://material.io/resources/icons)
 
 ## Fonts & Text
 
@@ -111,6 +112,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 
 - [FlatIcon](https://www.flaticon.com/)
 - [Giphy](https://giphy.com/)
+- [Fake Images Please](https://fakeimg.pl/)
 
 ### Inspiration
 
