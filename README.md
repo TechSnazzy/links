@@ -107,12 +107,14 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [Google Fonts](https://fonts.google.com/)
 - [Lorem Ipsum Generator](https://loremipsum.io/)
 - [Lorem Ipsum Generator](http://lorem-ipsum.perbang.dk/)
+- [A Visual Type Scale](https://type-scale.com/)
 
 ## Stock Images
 
 - [FlatIcon](https://www.flaticon.com/)
 - [Giphy](https://giphy.com/)
 - [Fake Images Please](https://fakeimg.pl/)
+- [Pexels Free Stock Photos & Videos](https://www.pexels.com/)
 
 ### Inspiration
 
