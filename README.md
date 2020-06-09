@@ -93,6 +93,7 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [Color Hunt](https://colorhunt.co/palette/136330)
 - [Flatuicolors](https://flatuicolors.com/palette/defo)
 - [Adobe Color](https://color.adobe.com/create/color-wheel)
+- [Coolors](https://coolors.co/)
 
 ## Icons
 
