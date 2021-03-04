@@ -1,4 +1,4 @@
-# ALL KINDS OF WEB DEV LINKS
+# ALL KINDS OF WEB DEVELOPER LINKS
 
 This is a list of links I am compiling as I learn Front-End Web Development.
 
@@ -68,7 +68,6 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [The difference between flex-basis and width](https://gedd.ski/post/the-difference-between-width-and-flex-basis/)
 - [CSS Grid](https://cssgrid.io/)
 - [CSS FX](https://cssfx.dev/)
-- [Every Layout](https://every-layout.dev/)
 
 ## Bootstrap
 
@@ -93,12 +92,15 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 
 - [Color Hunt](https://colorhunt.co/palette/136330)
 - [Flatuicolors](https://flatuicolors.com/palette/defo)
+- [Adobe Color](https://color.adobe.com/create/color-wheel)
+- [Coolors](https://coolors.co/)
 
 ## Icons
 
 - [Emojipedia](https://emojipedia.org/)
 - [Favicon](https://www.favicon.cc/)
 - [LineIcons](https://lineicons.com/)
+- [Google Icons](https://material.io/resources/icons)
 
 ## Fonts & Text
 
@@ -107,11 +109,14 @@ This is a list of links I am compiling as I learn Front-End Web Development.
 - [Google Fonts](https://fonts.google.com/)
 - [Lorem Ipsum Generator](https://loremipsum.io/)
 - [Lorem Ipsum Generator](http://lorem-ipsum.perbang.dk/)
+- [A Visual Type Scale](https://type-scale.com/)
 
 ## Stock Images
 
 - [FlatIcon](https://www.flaticon.com/)
 - [Giphy](https://giphy.com/)
+- [Fake Images Please](https://fakeimg.pl/)
+- [Pexels Free Stock Photos & Videos](https://www.pexels.com/)
 
 ### Inspiration
 
